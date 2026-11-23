@@ -221,15 +221,3 @@ h2 {
   border: 1px solid #fff;
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
-
-#map, #top, #title, #narration, #contents, .chapter-container {
-  outline: 2px solid red !important;
-}
-
-.leaflet-tile-pane {
-  display: none !important;
-}
-
-#map {
-  background: lightblue !important;
-}
