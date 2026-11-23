@@ -225,3 +225,7 @@ h2 {
 #top, #title, #narration, #contents, .chapter-container {
   outline: 2px solid red !important;
 }
+
+#map {
+  background: lightblue !important;
+}
