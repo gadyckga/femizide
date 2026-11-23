@@ -222,8 +222,12 @@ h2 {
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 
-#top, #title, #narration, #contents, .chapter-container {
+#map, #top, #title, #narration, #contents, .chapter-container {
   outline: 2px solid red !important;
+}
+
+.leaflet-tile-pane {
+  display: none !important;
 }
 
 #map {
