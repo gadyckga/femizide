@@ -176,7 +176,32 @@ h2 {
 }
 /* Mobile Ansicht: größere Karte */
 @media (max-width: 767px) {
-  
+
+    #top {
+    height: 0 !important;
+  }
+
+
+  #header {
+    padding: 2px 0 !important;
+  }
+
+
+  #header h1 {
+    font-size: 1.1em;
+  }
+
+
+  #header h2 {
+    font-size: 0.9em;
+  }
+
+
+  .chapter-container {
+    margin: 10px 0 0 0;
+    padding: 10px 0 0 0;
+  }
+}
   #map {
     height: 40vh;
   }
