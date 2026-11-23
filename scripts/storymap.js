@@ -486,7 +486,7 @@ function changeAttribution() {
   var attributionHTML = attrEl.innerHTML;
 
   // Statischer Credit (ohne Links)
-  var staticCredit = 'Storymap by Andreas Dyck | Code with Leaflet';
+  var staticCredit = 'Storymap by Andreas Dyck / Ines Bresler | Code with Leaflet';
 
   // statischer Credit + Karteninfos
   attrEl.innerHTML = staticCredit + ' | ' + attributionHTML;
