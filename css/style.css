@@ -174,3 +174,18 @@ h2 {
   font-size: 1.1em;
   font-weight: normal;
 }
+/* Mobile Ansicht: größere Karte */
+@media (max-width: 767px) {
+  #map {
+    height: 60vh;
+  }
+
+  #narration {
+    top: calc(60vh + 3px);
+    height: calc(100vh - 60vh - 3px);
+  }
+
+  #title {
+    top: calc(60vh + 3px);
+  }
+}
