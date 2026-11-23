@@ -214,7 +214,7 @@ h2 {
   }
 
   #title {
-    top: calc(60vh + 3px);
+    top: calc(60vh + 3px) !important;
   }
 }
 /* Legende für Markerfarben */
