@@ -176,8 +176,6 @@ h2 {
 }
 /* Mobile Ansicht: größere Karte */
 @media (max-width: 767px) {
-
-  #title { background: lightgreen !important; }
   
     #top {
     height: 0 !important;
