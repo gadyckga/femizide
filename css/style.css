@@ -192,7 +192,7 @@ h2 {
 /* Legende für Markerfarben */
 #legende {
   position: absolute;
-  bottom: 10px;
+  top: 10px;
   left: 10px;
   z-index: 900;
   background: white;
