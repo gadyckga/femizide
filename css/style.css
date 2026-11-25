@@ -241,3 +241,11 @@ h2 {
   border: 1px solid #fff;
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
+.legende-hinweis {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #ccc;
+  font-size: 11px;
+  color: #555;
+  max-width: 220px;
+}
